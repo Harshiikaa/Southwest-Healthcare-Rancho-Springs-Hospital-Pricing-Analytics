@@ -1,4 +1,4 @@
-# Healthcare Pricing Analytics Pipeline
+# Southwest Healthcare Rancho Springs Hospital Pricing Analytics Pipeline
 
 An end-to-end healthcare pricing analytics project built using **PySpark, Snowflake, SQL, and Tableau** to transform raw hospital pricing transparency data into an analysis-ready dataset and uncover pricing variation across services, code categories, and care settings.
 
